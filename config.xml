@@ -4,6 +4,6 @@
 				id       ="com.phonegap.api-request"
 				version  ="1.0.0">
 		<name>MAIN</name>
-		<description>app hybrid</description>
+		<description>app</description>
 		<icon src="icon.png">
 </widget>
