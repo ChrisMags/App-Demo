@@ -3,7 +3,7 @@
 				xmlns:gap="http://phonegap.com/ns/1.0"
 				id		="com.phonegap.api-request"
 				version	="1.0.0">
-		<name>ODONG</name>
+		<name>UDONG</name>
 		<description>API Demo</description>
 		<icon src="odong.png"/>
 </widget>
